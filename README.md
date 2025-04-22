@@ -7,7 +7,7 @@ Mình là một lập trình viên web đam mê công nghệ, thích xây dựng
 - 👀 Mình quan tâm đến **Web Development**, đặc biệt với **.NET**, **Node.js**, và **RESTful APIs**
 - 🌱 Hiện tại mình đang học chuyên sâu về **ASP.NET Core**, **Entity Framework**, và **Express.js**
 - 📫 Liên hệ với mình qua:  
-  📧 Email: nhutminh.dev@gmail.com  
+  📧 Email: nhutminhnguyen293@gmail.com
   💼 LinkedIn: [Minh Nguyen Nhut](https://www.linkedin.com/in/minh-nguyen-nhut-64925b330/)  
   🧑‍💻 GitHub: [@nhutminhnguyen273](https://github.com/nhutminhnguyen273)
 - 😄 Đại từ: **he/him**
