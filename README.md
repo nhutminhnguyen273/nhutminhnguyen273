@@ -1,4 +1,4 @@
-### 👋 Xin chào! Mình là Nhut Minh Nguyen (@nhutminhnguyen273)
+### 👋 Xin chào! Mình là Nguyễn Nhựt Minh (@nhutminhnguyen273)
 
 Mình là một lập trình viên web đam mê công nghệ, thích xây dựng những sản phẩm có tính ứng dụng cao và mang lại giá trị thực tế.
 
